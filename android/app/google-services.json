@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13450984453",
+    "project_id": "todo-e181d",
+    "storage_bucket": "todo-e181d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13450984453:android:d9f5707cc5cc79e399706c",
+        "android_client_info": {
+          "package_name": "com.recoding.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13450984453-4ak6oo07387aimhe1nsnh7ootvtppcrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2YuJCc4nFL9fwy9RNsKoBO8-sQpnI34U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13450984453-4ak6oo07387aimhe1nsnh7ootvtppcrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

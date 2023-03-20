@@ -1,0 +1,24 @@
+const String kTodo = "ToDo Application";
+const String kLogin = "LOGIN";
+const String kRegister = "REGISTER";
+const String kUsername = "Username";
+const String kPassword = "Password";
+const String kReTypePassword = "Re-type Password";
+const String kDontAcc = "Don't have an account? ";
+const String kHaveAcc = "Already have an account? ";
+const String kDevByReCoding = "Developed by ReCoding";
+const String kUsernameErrorText = 'Please Enter Username';
+const String kPasswordErrorText = 'Please Enter Password';
+const String kReTypePasswordErrorText = 'Please Enter Re-Type Password';
+const String kMustSamePassword = 'Must be same Password';
+const String kAddNewTask = 'Add New Task';
+const String kEditTask = 'Edit Task';
+const String kEnterTitle = 'Enter Title';
+const String kEnterDescription = 'Enter Description';
+const String kEnterNote = 'Enter Note';
+const String kDate = 'Date ';
+const String kTime = 'Time ';
+const String kLoadingText = 'Loading...';
+const String kNoTask = 'No Task';
+
+const String kRootNodeForTask='task';
